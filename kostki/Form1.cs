@@ -66,47 +66,54 @@ namespace kostki
         private void button1_Click(object sender, EventArgs e)
         {
             Random random = new Random();
-            StringBuilder rolls = new StringBuilder();
+            StringBuilder rolls2 = new StringBuilder();
+            StringBuilder rolls4 = new StringBuilder();
+            StringBuilder rolls6 = new StringBuilder();
+            StringBuilder rolls8 = new StringBuilder();
+            StringBuilder rolls10 = new StringBuilder();
+            StringBuilder rolls12 = new StringBuilder();
+            StringBuilder rolls20 = new StringBuilder();
+            StringBuilder rolls100 = new StringBuilder();
 
             for (int i = 0; i < value2; i++)
             {
                 int roll2 = random.Next(1, 3);
-                rolls.Append(roll + " ");
+                rolls2.Append(roll2 + " ");
             }
             for (int i = 0; i < value4; i++)
             {
                 int roll4 = random.Next(1, 5);
-                rolls.Append(roll + " ");
+                rolls4.Append(roll4 + " ");
             }
             for (int i = 0; i < value6; i++)
             {
                 int roll6 = random.Next(1, 7);
-                rolls.Append(roll + " ");
+                rolls6.Append(roll6 + " ");
             }
             for (int i = 0; i < value8; i++)
             {
                 int roll8 = random.Next(1, 9);
-                rolls.Append(roll + " ");
+                rolls8.Append(roll8 + " ");
             }
             for (int i = 0; i < value10; i++)
             {
                 int roll10 = random.Next(1, 11);
-                rolls.Append(roll + " ");
+                rolls10.Append(roll10 + " ");
             }
             for (int i = 0; i < value12; i++)
             {
                 int roll12 = random.Next(1, 13);
-                rolls.Append(roll + " ");
+                rolls12.Append(roll12 + " ");
             }
             for (int i = 0; i < value20; i++)
             {
                 int roll20 = random.Next(1, 21);
-                rolls.Append(roll + " ");
+                rolls20.Append(roll20 + " ");
             }
             for (int i = 0; i < value100; i++)
             {
                 int roll100 = random.Next(1, 100);
-                rolls.Append(roll + " ");
+                rolls100.Append(roll100 + " ");
             }
 
             Form2 form2 = new Form2();
