@@ -12,6 +12,9 @@ namespace kostki
 {
     public partial class Form1 : Form
     {
+        int value2; int value4; int value6; int value8; int value10; int value12; int value20; int value100; 
+
+
         public Form1()
         {
             InitializeComponent();
@@ -19,48 +22,48 @@ namespace kostki
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value2 = (int)numeric.Value;
+            value2 = (int)numeric.Value;
         }
         private void numericUpDown2_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value4 = (int)numeric.Value;
+            value4 = (int)numeric.Value;
         }
 
         private void numericUpDown3_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value6 = (int)numeric.Value;
+            value6 = (int)numeric.Value;
         }
 
         private void numericUpDown4_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value8 = (int)numeric.Value;
+            value8 = (int)numeric.Value;
         }
 
         private void numericUpDown5_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value10 = (int)numeric.Value;
+            value10 = (int)numeric.Value;
         }
 
         private void numericUpDown6_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value12 = (int)numeric.Value;
+            value12 = (int)numeric.Value;
         }
 
         private void numericUpDown7_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value20 = (int)numeric.Value;
+            value20 = (int)numeric.Value;
         }
 
         private void numericUpDown8_ValueChanged(object sender, EventArgs e)
         {
             NumericUpDown numeric = (NumericUpDown)sender;
-            int value100 = (int)numeric.Value;
+            value100 = (int)numeric.Value;
         }
 
         private void button1_Click(object sender, EventArgs e)

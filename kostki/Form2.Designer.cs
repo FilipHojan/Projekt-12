@@ -131,7 +131,7 @@ namespace kostki
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label9.Location = new System.Drawing.Point(341, 37);
+            this.label9.Location = new System.Drawing.Point(218, 37);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(86, 31);
             this.label9.TabIndex = 8;
@@ -142,7 +142,7 @@ namespace kostki
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label10.Location = new System.Drawing.Point(341, 88);
+            this.label10.Location = new System.Drawing.Point(218, 88);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(101, 31);
             this.label10.TabIndex = 9;
@@ -152,7 +152,7 @@ namespace kostki
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label11.Location = new System.Drawing.Point(341, 134);
+            this.label11.Location = new System.Drawing.Point(218, 134);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(101, 31);
             this.label11.TabIndex = 10;
@@ -162,7 +162,7 @@ namespace kostki
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label12.Location = new System.Drawing.Point(341, 179);
+            this.label12.Location = new System.Drawing.Point(218, 179);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(101, 31);
             this.label12.TabIndex = 11;
@@ -172,7 +172,7 @@ namespace kostki
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label13.Location = new System.Drawing.Point(341, 224);
+            this.label13.Location = new System.Drawing.Point(237, 224);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(101, 31);
             this.label13.TabIndex = 12;
@@ -182,7 +182,7 @@ namespace kostki
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label14.Location = new System.Drawing.Point(341, 273);
+            this.label14.Location = new System.Drawing.Point(237, 273);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(101, 31);
             this.label14.TabIndex = 13;
@@ -192,7 +192,7 @@ namespace kostki
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label15.Location = new System.Drawing.Point(341, 325);
+            this.label15.Location = new System.Drawing.Point(237, 325);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(101, 31);
             this.label15.TabIndex = 14;
@@ -202,7 +202,7 @@ namespace kostki
             // 
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label16.Location = new System.Drawing.Point(341, 375);
+            this.label16.Location = new System.Drawing.Point(247, 375);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(101, 31);
             this.label16.TabIndex = 15;
